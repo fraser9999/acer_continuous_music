@@ -1,0 +1,9 @@
+#all requirements from ace-step Webui 
+
+#additional requirements
+g4f==0.6.2.8 # Versions Nummer ist wichtig
+pygetwindow
+soundfile
+sounddevice
+watchdog
+numpy
