@@ -1,6 +1,9 @@
-ACE-R Continuous Music Generator (Early Alpha 0.1a Version)
-Author: Hermann knopp
+ACE-R Continuous Music Generator
+
+
+Author: Hermann Knopp
 Version 0.1a
+(Early Alpha 0.1a Version)
 
 
 "Make Endless Music with ACE-Step Installation"
