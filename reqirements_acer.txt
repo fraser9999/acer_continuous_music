@@ -1,10 +1,11 @@
 #all requirements from ace-step Webui 
 
 #additional requirements
-g4f==0.6.2.8 # Versions Nummer ist wichtig
+g4f==0.6.2.8 # Version Number is important
 pygetwindow
 soundfile
 sounddevice
 watchdog
 numpy # use numpy version from ACE-Step installation
+
 
