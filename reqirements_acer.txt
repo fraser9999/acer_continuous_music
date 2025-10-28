@@ -6,4 +6,5 @@ pygetwindow
 soundfile
 sounddevice
 watchdog
-numpy
+numpy # use numpy version from ACE-Step installation
+
