@@ -66,8 +66,8 @@ from acestep.data_sampler import DataSampler
 
 print("")
 print("Please Connect to the Internet for CHATGPT use.")
-print("This Software uses free ChatGPT Client with gf4 Library")
-print("Do not use other Version than gf4==0.6.2.8 for working correct")
+print("This Software uses free ChatGPT Client with g4f Library")
+print("Do not use other Version than g4f==0.6.2.8 for working correct")
 print("")
 
 # Debug 0
