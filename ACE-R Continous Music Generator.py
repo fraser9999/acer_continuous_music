@@ -484,8 +484,8 @@ def main(checkpoint_path, bf16, torch_compile, cpu_offload, overlapped_decode, d
         lyrics=lyrics1
         infer_step=50
    
-        # guidance scale Std.=7.5
-        guidance_scale=4
+        # guidance scale Std.=7.5 - 4.0
+        guidance_scale=7.5
         scheduler_type="euler"
         cfg_type="apg"
         omega_scale=1
