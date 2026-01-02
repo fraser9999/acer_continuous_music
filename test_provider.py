@@ -19,8 +19,9 @@ try:
         response_text = response_text + str(message)
 
     print(response_text)
-    a=inpüut("wait key")
+    a=input("wait key")
 
 except Exception as e:
     print(e)
+
     pass
